@@ -6,7 +6,7 @@
       "deploy": "https://quiz-enjels.vercel.app/",
       "github": "https://github.com/enjels/quiz",
       "description": "Quiz feito em react",
-      "video": "https://www.youtube.com/embed/_GaHPEtRe1c"
+      "video": "https://www.youtube.com/embed/_GaHPEtRe1c/?autoplay=1&controls=0"
     },
     {
       "id": 2,
@@ -14,7 +14,7 @@
       "deploy": "https://multstep-form-react.vercel.app/",
       "github": "https://github.com/enjels/multstep_form_react",
       "description": "multstep-form-react, é um formulario de avaliação, feito em React com json server",
-      "video": "https://www.youtube.com/embed/TT4T_4O7Wao"
+      "video": "https://www.youtube.com/embed/TT4T_4O7Wao/?autoplay=1&controls=0"
     },
     {
       "id": 3,
@@ -22,7 +22,7 @@
       "deploy": "https://imc-calc-murex.vercel.app/",
       "github": "https://github.com/enjels/multstep_form_react",
       "description": "Calculadora de IMC, criada em react com json server",
-      "video": "https://www.youtube.com/embed/3BQScV1Xc-4"
+      "video": "https://www.youtube.com/embed/3BQScV1Xc-4/?autoplay=1&controls=0"
     },
     {
       "id": 4,
