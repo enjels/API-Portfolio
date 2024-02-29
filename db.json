@@ -132,7 +132,7 @@
           "skill": "Photoshop"
         }
       ],
-      "Softskills": [{
+      "softskills": [{
         "id": 1,
         "skill":"autodidatismo"
       },{
