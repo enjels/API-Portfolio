@@ -6,7 +6,7 @@
       "deploy": "https://quiz-enjels.vercel.app/",
       "github": "https://github.com/enjels/quiz",
       "description": "Quiz feito em react",
-      "video": "https://www.youtube.com/watch?v=Ph5zwjZAsew"
+      "video": "https://youtu.be/_GaHPEtRe1c"
     },
     {
       "id": 2,
@@ -14,7 +14,7 @@
       "deploy": "https://multstep-form-react.vercel.app/",
       "github": "https://github.com/enjels/multstep_form_react",
       "description": "multstep-form-react, é um formulario de avaliação, feito em React com json server",
-      "video": "https://private-user-images.githubusercontent.com/90569314/301710754-6b0a8c85-ca4a-4f09-945f-55de2de5cb30.mp4?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDkyMjYyNjIsIm5iZiI6MTcwOTIyNTk2MiwicGF0aCI6Ii85MDU2OTMxNC8zMDE3MTA3NTQtNmIwYThjODUtY2E0YS00ZjA5LTk0NWYtNTVkZTJkZTVjYjMwLm1wND9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAyMjklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMjI5VDE2NTkyMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWZkZDhlNjI0ZDc3MzVmMzcxNTUwMTlhYzJlM2Q5YTExNjg4ODYwMjQ5NjBjOTJlZGNjZGY3OWYwZTc1M2MwOTEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.gaGUeW1JhyQYDZ5LGwBYNiywbB648pPqdiTsqblEHEQ"
+      "video": "https://youtu.be/TT4T_4O7Wao"
     },
     {
       "id": 3,
@@ -22,7 +22,7 @@
       "deploy": "https://imc-calc-murex.vercel.app/",
       "github": "https://github.com/enjels/multstep_form_react",
       "description": "Calculadora de IMC, criada em react com json server",
-      "video": "https://"
+      "video": "https://youtu.be/3BQScV1Xc-4"
     },
     {
       "id": 4,
@@ -30,7 +30,7 @@
       "deploy": "https://mentorclass.vercel.app/",
       "github": "https://github.com/enjels/projeto-de-conclusao-do-modulo-1-avaliacao",
       "description": "Mentor Class, uma area de gestão de alunos e professores e turmas para ensino, possui registro de email alunos e professores, Desenvovido com HTML, CSS e javaScript.",
-      "video": "https://"
+      
     },
     {
       "id": 5,
@@ -38,7 +38,7 @@
       "deploy": "https://enjels.github.io/codai-2.0/",
       "github": "https://github.com/enjels/codai-2.0",
       "description": "Projeto Codai -2.0 Nikel, é uma carteira digital,que registra a entra e saída do saldo da conta, detalhes descrição da transação e data do processo tudo isso sendo salvo no Histórico, possui cadastro e login, usa local storage para salvar os dados, Desenvovido com HTML, CSS e javaScript..",
-      "video": "https://"
+      
     },
     {
       "id": 6,
@@ -46,7 +46,7 @@
       "deploy": "https://enjels.github.io/Coffee-Shop/",
       "github": "https://github.com/enjels/Coffee-Shop",
       "description": "Coffe-shop criado apartir de uma referência do youtube CANAL: Danilo paixão, Desenvovido com HTML, CSS e javaScript..",
-      "video": "https://"
+      
     },
     {
       "id": 7,
@@ -54,7 +54,7 @@
       "deploy": "https://enjels.github.io/Doritos/",
       "github": "https://github.com/enjels/Doritos",
       "description": "Site de doritos um dos primeiros projetos criado quando eu não tinha conhecimento em programação para usar ele como medida de evolução, Desenvovido com HTML, CSS e javaScript. OBS: embreve uma nova versão melhorada.",
-      "video": "https://"
+      
     },
     {
       "id": 8,
@@ -62,7 +62,7 @@
       "deploy": "https://enjels.github.io/relogio-digital/",
       "github": "https://github.com/enjels/relogio-digital",
       "description": "Relógio digital criado apartir de uma referencia no youtube, Desenvovido com HTML, CSS e javaScript..",
-      "video": "https://"
+      
     },
     {
       "id": 9,
@@ -70,7 +70,7 @@
       "deploy": "https://enjels.github.io/lading-page-treino-exclusivo",
       "github": "https://github.com/enjels/lading-page-treino-exclusivo",
       "description": "Landing page, projeto criado apartir do curso da rocketseat, objetivo aplicar e consolidar conhecimento basicas estudads do html e css.",
-      "video": "https://"
+     
     },
     {
       "id": 10,
@@ -78,7 +78,7 @@
       "deploy": "https://enjels.github.io/formulario-Informacoes",
       "github": "https://github.com/enjels/formulario-Informacoes",
       "description": "Formulário projeto criado apartir do curso da rocketseat, objetivo aplicar e consolidar conhecimento em criação de formularios, Desenvovido com HTML, CSS e javaScript..",
-      "video": "https://"
+      
     },
     {
       "id": 11,
@@ -86,7 +86,7 @@
       "deploy": "https://enjels.github.io/login-cat/",
       "github": "https://github.com/enjels/login-cat",
       "description": "Projeto login-cat criado apartir de uma referência do youtube CANAL: Markzuel, Desenvovido com HTML, CSS e javaScript..",
-      "video": "https://"
+      
     },
     {
       "id": 12,
@@ -94,7 +94,7 @@
       "deploy": "https://enjels.github.io/responsivo-desktop-Mobile/",
       "github": "https://github.com/enjels/responsivo-desktop-Mobile",
       "description": "Responsivo desktop Mobile, aprendizado sobre respons",
-      "video": "https://"
+      
     }
   ]
 }
